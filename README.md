@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0100-same-tree](https://github.com/ankushdixit0001/Leetcode/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/ankushdixit0001/Leetcode/tree/master/0110-balanced-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/ankushdixit0001/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/ankushdixit0001/Leetcode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ankushdixit0001/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/ankushdixit0001/Leetcode/tree/master/0222-count-complete-tree-nodes) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0100-same-tree](https://github.com/ankushdixit0001/Leetcode/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/ankushdixit0001/Leetcode/tree/master/0110-balanced-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/ankushdixit0001/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/ankushdixit0001/Leetcode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ankushdixit0001/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0404-sum-of-left-leaves](https://github.com/ankushdixit0001/Leetcode/tree/master/0404-sum-of-left-leaves) |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/ankushdixit0001/Leetcode/tree/master/0100-same-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/ankushdixit0001/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/ankushdixit0001/Leetcode/tree/master/0112-path-sum) |
 | [0404-sum-of-left-leaves](https://github.com/ankushdixit0001/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/ankushdixit0001/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -88,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0100-same-tree](https://github.com/ankushdixit0001/Leetcode/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/ankushdixit0001/Leetcode/tree/master/0110-balanced-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/ankushdixit0001/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/ankushdixit0001/Leetcode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ankushdixit0001/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/ankushdixit0001/Leetcode/tree/master/0222-count-complete-tree-nodes) |
