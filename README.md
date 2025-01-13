@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ankushdixit0001/Leetcode/tree/master/0001-two-sum) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/ankushdixit0001/Leetcode/tree/master/2341-count-prefixes-of-a-given-string) |
 ## String
 |  |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ankushdixit0001/Leetcode/tree/master/0001-two-sum) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/ankushdixit0001/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Counting
 |  |
