@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2292-counting-words-with-a-given-prefix](https://github.com/ankushdixit0001/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/ankushdixit0001/Leetcode/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2358-number-of-ways-to-split-array](https://github.com/ankushdixit0001/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/ankushdixit0001/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## String
 |  |
 | ------- |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ankushdixit0001/Leetcode/tree/master/0001-two-sum) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/ankushdixit0001/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/ankushdixit0001/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Counting
 |  |
@@ -122,4 +124,5 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/ankushdixit0001/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/ankushdixit0001/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/ankushdixit0001/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 <!---LeetCode Topics End-->
