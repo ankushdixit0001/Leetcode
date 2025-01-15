@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ankushdixit0001/Leetcode/tree/master/0011-container-with-most-water) |
+| [2509-minimize-xor](https://github.com/ankushdixit0001/Leetcode/tree/master/2509-minimize-xor) |
 ## String Matching
 |  |
 | ------- |
@@ -124,5 +125,6 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/ankushdixit0001/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/ankushdixit0001/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [2509-minimize-xor](https://github.com/ankushdixit0001/Leetcode/tree/master/2509-minimize-xor) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/ankushdixit0001/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 <!---LeetCode Topics End-->
