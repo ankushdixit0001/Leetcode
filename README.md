@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2341-count-prefixes-of-a-given-string](https://github.com/ankushdixit0001/Leetcode/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2358-number-of-ways-to-split-array](https://github.com/ankushdixit0001/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/ankushdixit0001/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [2685-first-completely-painted-row-or-column](https://github.com/ankushdixit0001/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/ankushdixit0001/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/ankushdixit0001/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
 ## String
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ankushdixit0001/Leetcode/tree/master/0001-two-sum) |
+| [2685-first-completely-painted-row-or-column](https://github.com/ankushdixit0001/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/ankushdixit0001/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/ankushdixit0001/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Counting
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/ankushdixit0001/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ankushdixit0001/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [2685-first-completely-painted-row-or-column](https://github.com/ankushdixit0001/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 ## Shortest Path
 |  |
 | ------- |
