@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0287-find-the-duplicate-number](https://github.com/ankushdixit0001/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0407-trapping-rain-water-ii](https://github.com/ankushdixit0001/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ankushdixit0001/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [2145-grid-game](https://github.com/ankushdixit0001/Leetcode/tree/master/2145-grid-game) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/ankushdixit0001/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/ankushdixit0001/Leetcode/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2358-number-of-ways-to-split-array](https://github.com/ankushdixit0001/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Prefix Sum
 |  |
 | ------- |
+| [2145-grid-game](https://github.com/ankushdixit0001/Leetcode/tree/master/2145-grid-game) |
 | [2358-number-of-ways-to-split-array](https://github.com/ankushdixit0001/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 ## Tree
 |  |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/ankushdixit0001/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ankushdixit0001/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [2145-grid-game](https://github.com/ankushdixit0001/Leetcode/tree/master/2145-grid-game) |
 | [2685-first-completely-painted-row-or-column](https://github.com/ankushdixit0001/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 ## Shortest Path
 |  |
