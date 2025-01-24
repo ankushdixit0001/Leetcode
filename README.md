@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0404-sum-of-left-leaves](https://github.com/ankushdixit0001/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/ankushdixit0001/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/ankushdixit0001/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0820-find-eventual-safe-states](https://github.com/ankushdixit0001/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [1396-count-servers-that-communicate](https://github.com/ankushdixit0001/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/ankushdixit0001/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Breadth-First Search
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0404-sum-of-left-leaves](https://github.com/ankushdixit0001/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0407-trapping-rain-water-ii](https://github.com/ankushdixit0001/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/ankushdixit0001/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0820-find-eventual-safe-states](https://github.com/ankushdixit0001/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [1396-count-servers-that-communicate](https://github.com/ankushdixit0001/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ankushdixit0001/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/ankushdixit0001/Leetcode/tree/master/1876-map-of-highest-peak) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Graph
 |  |
 | ------- |
+| [0820-find-eventual-safe-states](https://github.com/ankushdixit0001/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ankushdixit0001/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Heap (Priority Queue)
 |  |
@@ -180,4 +183,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1396-count-servers-that-communicate](https://github.com/ankushdixit0001/Leetcode/tree/master/1396-count-servers-that-communicate) |
+## Topological Sort
+|  |
+| ------- |
+| [0820-find-eventual-safe-states](https://github.com/ankushdixit0001/Leetcode/tree/master/0820-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
