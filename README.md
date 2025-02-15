@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/ankushdixit0001/Leetcode/tree/master/0051-n-queens) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/ankushdixit0001/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Graph
 |  |
 | ------- |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/ankushdixit0001/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/ankushdixit0001/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/ankushdixit0001/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Data Stream
 |  |
 | ------- |
