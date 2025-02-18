@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ankushdixit0001/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/ankushdixit0001/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/ankushdixit0001/Leetcode/tree/master/2341-count-prefixes-of-a-given-string) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/ankushdixit0001/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3447-clear-digits](https://github.com/ankushdixit0001/Leetcode/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/ankushdixit0001/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Hash Table
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ankushdixit0001/Leetcode/tree/master/0011-container-with-most-water) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/ankushdixit0001/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2509-minimize-xor](https://github.com/ankushdixit0001/Leetcode/tree/master/2509-minimize-xor) |
 ## String Matching
 |  |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0094-binary-tree-inorder-traversal](https://github.com/ankushdixit0001/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ankushdixit0001/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ankushdixit0001/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/ankushdixit0001/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3447-clear-digits](https://github.com/ankushdixit0001/Leetcode/tree/master/3447-clear-digits) |
 ## Bit Manipulation
 |  |
@@ -200,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0051-n-queens](https://github.com/ankushdixit0001/Leetcode/tree/master/0051-n-queens) |
 | [1160-letter-tile-possibilities](https://github.com/ankushdixit0001/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/ankushdixit0001/Leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/ankushdixit0001/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/ankushdixit0001/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Graph
 |  |
