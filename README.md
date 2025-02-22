@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/ankushdixit0001/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/ankushdixit0001/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/ankushdixit0001/Leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ankushdixit0001/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0404-sum-of-left-leaves](https://github.com/ankushdixit0001/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/ankushdixit0001/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/ankushdixit0001/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/ankushdixit0001/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ankushdixit0001/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/ankushdixit0001/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Depth-First Search
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0684-redundant-connection](https://github.com/ankushdixit0001/Leetcode/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/ankushdixit0001/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/ankushdixit0001/Leetcode/tree/master/0854-making-a-large-island) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/ankushdixit0001/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ankushdixit0001/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/ankushdixit0001/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/ankushdixit0001/Leetcode/tree/master/1558-course-schedule-iv) |
@@ -183,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0404-sum-of-left-leaves](https://github.com/ankushdixit0001/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/ankushdixit0001/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/ankushdixit0001/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/ankushdixit0001/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ankushdixit0001/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/ankushdixit0001/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Stack
