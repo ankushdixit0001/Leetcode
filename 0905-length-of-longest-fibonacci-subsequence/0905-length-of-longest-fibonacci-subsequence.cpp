@@ -23,5 +23,3 @@ public:
         else return 0;
     }
 };
-
-// Thanks You, I hope you understood this approach.
