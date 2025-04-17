@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ankushdixit0001/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/ankushdixit0001/Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2107-find-unique-binary-string](https://github.com/ankushdixit0001/Leetcode/tree/master/2107-find-unique-binary-string) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/ankushdixit0001/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2145-grid-game](https://github.com/ankushdixit0001/Leetcode/tree/master/2145-grid-game) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/ankushdixit0001/Leetcode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/ankushdixit0001/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ankushdixit0001/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ankushdixit0001/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2107-find-unique-binary-string](https://github.com/ankushdixit0001/Leetcode/tree/master/2107-find-unique-binary-string) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/ankushdixit0001/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2434-design-a-number-container-system](https://github.com/ankushdixit0001/Leetcode/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/ankushdixit0001/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ankushdixit0001/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1364-tuple-with-same-product](https://github.com/ankushdixit0001/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/ankushdixit0001/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ankushdixit0001/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/ankushdixit0001/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2448-count-number-of-bad-pairs](https://github.com/ankushdixit0001/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ankushdixit0001/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/ankushdixit0001/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
