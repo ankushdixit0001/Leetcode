@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0001-two-sum](https://github.com/ankushdixit0001/Leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/ankushdixit0001/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/ankushdixit0001/Leetcode/tree/master/0011-container-with-most-water) |
+| [0037-sudoku-solver](https://github.com/ankushdixit0001/Leetcode/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/ankushdixit0001/Leetcode/tree/master/0051-n-queens) |
 | [0075-sort-colors](https://github.com/ankushdixit0001/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ankushdixit0001/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ankushdixit0001/Leetcode/tree/master/0001-two-sum) |
+| [0037-sudoku-solver](https://github.com/ankushdixit0001/Leetcode/tree/master/0037-sudoku-solver) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/ankushdixit0001/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ankushdixit0001/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/ankushdixit0001/Leetcode/tree/master/1160-letter-tile-possibilities) |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/ankushdixit0001/Leetcode/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/ankushdixit0001/Leetcode/tree/master/0051-n-queens) |
 | [1160-letter-tile-possibilities](https://github.com/ankushdixit0001/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/ankushdixit0001/Leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -273,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/ankushdixit0001/Leetcode/tree/master/0037-sudoku-solver) |
 | [0407-trapping-rain-water-ii](https://github.com/ankushdixit0001/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0854-making-a-large-island](https://github.com/ankushdixit0001/Leetcode/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/ankushdixit0001/Leetcode/tree/master/1396-count-servers-that-communicate) |
