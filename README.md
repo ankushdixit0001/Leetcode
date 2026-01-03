@@ -350,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/ankushdixit0001/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/ankushdixit0001/Leetcode/tree/master/1170-shortest-common-supersequence) |
+| [1411-number-of-ways-to-paint-n-3-grid](https://github.com/ankushdixit0001/Leetcode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ankushdixit0001/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/ankushdixit0001/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 ## Linked List
