@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ankushdixit0001/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1293-three-consecutive-odds](https://github.com/ankushdixit0001/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1364-tuple-with-same-product](https://github.com/ankushdixit0001/Leetcode/tree/master/1364-tuple-with-same-product) |
+| [1390-four-divisors](https://github.com/ankushdixit0001/Leetcode/tree/master/1390-four-divisors) |
 | [1396-count-servers-that-communicate](https://github.com/ankushdixit0001/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/ankushdixit0001/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/ankushdixit0001/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/ankushdixit0001/Leetcode/tree/master/0066-plus-one) |
+| [1390-four-divisors](https://github.com/ankushdixit0001/Leetcode/tree/master/1390-four-divisors) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/ankushdixit0001/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/ankushdixit0001/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ankushdixit0001/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
