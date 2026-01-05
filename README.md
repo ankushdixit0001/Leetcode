@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1876-map-of-highest-peak](https://github.com/ankushdixit0001/Leetcode/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ankushdixit0001/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/ankushdixit0001/Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
+| [1975-maximum-matrix-sum](https://github.com/ankushdixit0001/Leetcode/tree/master/1975-maximum-matrix-sum) |
 | [2107-find-unique-binary-string](https://github.com/ankushdixit0001/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/ankushdixit0001/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2145-grid-game](https://github.com/ankushdixit0001/Leetcode/tree/master/2145-grid-game) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ankushdixit0001/Leetcode/tree/master/0011-container-with-most-water) |
+| [1975-maximum-matrix-sum](https://github.com/ankushdixit0001/Leetcode/tree/master/1975-maximum-matrix-sum) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/ankushdixit0001/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2509-minimize-xor](https://github.com/ankushdixit0001/Leetcode/tree/master/2509-minimize-xor) |
 ## String Matching
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1396-count-servers-that-communicate](https://github.com/ankushdixit0001/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ankushdixit0001/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/ankushdixit0001/Leetcode/tree/master/1876-map-of-highest-peak) |
+| [1975-maximum-matrix-sum](https://github.com/ankushdixit0001/Leetcode/tree/master/1975-maximum-matrix-sum) |
 | [2145-grid-game](https://github.com/ankushdixit0001/Leetcode/tree/master/2145-grid-game) |
 | [2685-first-completely-painted-row-or-column](https://github.com/ankushdixit0001/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/ankushdixit0001/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
