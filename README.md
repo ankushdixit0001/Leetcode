@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/ankushdixit0001/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/ankushdixit0001/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/ankushdixit0001/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/ankushdixit0001/Leetcode/tree/master/1170-shortest-common-supersequence) |
@@ -365,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/ankushdixit0001/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/ankushdixit0001/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/ankushdixit0001/Leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/ankushdixit0001/Leetcode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
